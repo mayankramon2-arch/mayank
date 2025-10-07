@@ -1,0 +1,5 @@
+{
+  "name": "Meta-Agent: AI Agent Factory",
+  "description": "An application that acts as a Meta-Agent to research, define, and generate detailed prompts for new, specialized AI agents based on user ideas.",
+  "requestFramePermissions": []
+}
